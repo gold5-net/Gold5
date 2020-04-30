@@ -1,15 +1,30 @@
 
-Package: tv.othman.scothman 
-Version: 15.2.1
+Package: معرف الاداة 
+Version: الاصدار
 Architecture: iphoneos-arm
-Maintainer: Gold5
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: com.abcapps.snapplus, com.abcapps.snappluslite, com.cokepokes.phantom, com.hackyouriphone.palbreak, com.yourepo.mohadu31.nosub, com.yourepo.mohadu31.palbreakcyrepo, com.sharedroutine.skylerk99.disbreak, com.sharedroutine.skylerk99.snapbreak, com.sharedroutine.skylerk99.mlbreak, com.hackyouriphone.xconxx, com.repo.xarold.com.xconxx, com.n00neimp0rtant.xconxx, tv.othman.scothman.lite.ios11, tv.othman.scothman.ios11, tv.othman.scothman.ios9.10, tv.othman.scothman.lite, tv.othman.scothman
-Filename: debs/scothmanforsnapchat_15.2.1.deb
-Size: 3201062
-MD5sum: 24ef83b88e17e09f505be53329d431fb
-SHA1: a49d87bc8198fe62ea1144c09abc030e16099c65
-SHA256: b82dd93279ceacab8bc172af491db4fda815f326d9d40483363bf476eb345e14
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Tweaks
-Depiction: https://gold5-net.github.io/Gold5/
-Name: Scothman
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
+Package: com.cokepokes.appstoreplusplus 
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: x7mii
+Depends:  firmware (>= 11.0), mobilesubstrate 
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb
+Size: 1670732
+MD5sum: e6e914ec0c7e9938241241a96d5c4821
+SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674
+SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
+Section: Tweaks
+Depiction: https://x7mii15.github.io/test
+Name: appstore++
