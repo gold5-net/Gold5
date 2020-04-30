@@ -1,0 +1,7 @@
+origin: GOLD5
+label: GOLD5
+suite: stable
+version: 1.0
+Architectures: iphoneos-arm
+components: main
+Description: سورس متجر قولد
