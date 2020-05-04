@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.9-9_iphoneos-arm.deb
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.9-9_iphoneos-arm.deb
 Size: 1473790
 MD5sum: d7f78d9c85246c3e4a7605f34b45db9c
 SHA1: b659e23287a9f091942bf8498c630bce1dd4dd45
